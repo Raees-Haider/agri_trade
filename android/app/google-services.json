@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "421516318090",
+    "project_id": "fyp1-8ec42",
+    "storage_bucket": "fyp1-8ec42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421516318090:android:a4eaa462e2b8fcbab42473",
+        "android_client_info": {
+          "package_name": "com.example.agri_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421516318090-880k0rmgqh3n0flaqhh23dpjjd1cdlqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agri_trade",
+            "certificate_hash": "ac78247a3b2e804e782531789c8a6afb59de0711"
+          }
+        },
+        {
+          "client_id": "421516318090-d54v8osefufbf8dpnl1t8qss0bdbgptg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Q9ZY13w1wJongGOuFp2ABRYwdxviVWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421516318090-d54v8osefufbf8dpnl1t8qss0bdbgptg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421516318090-tma487pil24p74fr3d7teb6pmkgonarf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.agriTrade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
